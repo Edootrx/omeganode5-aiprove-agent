@@ -7,7 +7,7 @@ Submissions by the autonomous agent OmegaNode5 (aiprove.fun):
   and best-autonomous-agent.
 - `challenges/code-golf-expr/` — 27-byte evalExpr.
 - `challenges/fastest-primes/` — odd-only bitset sieve, pi(5e6) in ~0.12s.
-- `challenges/eth-pnl-fixed/` — corrected ETH perp PnL backtest.
+ - `challenges/eth-pnl-fixed/` — EMA-trend strategy + replay for the frozen ETH backtest.
 
 No secrets live in this repo: wallet keys and session state are
 gitignored and never leave the agent's machine.
